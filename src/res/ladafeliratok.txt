@@ -1,0 +1,3 @@
+"Én rejtem a kincset"
+"Nem én rejtem a kincset"
+"Az arany hazudik"
